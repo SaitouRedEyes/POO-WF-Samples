@@ -1,0 +1,10 @@
+C:\Users\zeca_\Desktop\WFProjects\POO-WF-Samples\POO_WF2\POO_WF2\bin\Debug\POO_WF2.exe.config
+C:\Users\zeca_\Desktop\WFProjects\POO-WF-Samples\POO_WF2\POO_WF2\bin\Debug\POO_WF2.exe
+C:\Users\zeca_\Desktop\WFProjects\POO-WF-Samples\POO_WF2\POO_WF2\bin\Debug\POO_WF2.pdb
+C:\Users\zeca_\Desktop\WFProjects\POO-WF-Samples\POO_WF2\POO_WF2\obj\Debug\POO_WF2.csprojAssemblyReference.cache
+C:\Users\zeca_\Desktop\WFProjects\POO-WF-Samples\POO_WF2\POO_WF2\obj\Debug\POO_WF2.Properties.Resources.resources
+C:\Users\zeca_\Desktop\WFProjects\POO-WF-Samples\POO_WF2\POO_WF2\obj\Debug\POO_WF2.csproj.GenerateResource.cache
+C:\Users\zeca_\Desktop\WFProjects\POO-WF-Samples\POO_WF2\POO_WF2\obj\Debug\POO_WF2.exe
+C:\Users\zeca_\Desktop\WFProjects\POO-WF-Samples\POO_WF2\POO_WF2\obj\Debug\POO_WF2.pdb
+C:\Users\zeca_\Desktop\WFProjects\POO-WF-Samples\POO_WF2\POO_WF2\obj\Debug\POO_WF2.Form1.resources
+C:\Users\zeca_\Desktop\WFProjects\POO-WF-Samples\POO_WF2\POO_WF2\obj\Debug\POO_WF2.csproj.CoreCompileInputs.cache
